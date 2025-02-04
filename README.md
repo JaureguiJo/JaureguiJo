@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jordany, I´m from Guadalajara and I´m a Software Engineer transitioning into data analysis.
+My name is Jordany, I´m from Guadalajara and I´m a Software Engineer transitioning into Data Analyst role.
 
 - 🔭 I’m currently learning Data analysis and Data science.
 
