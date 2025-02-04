@@ -2,7 +2,7 @@
 
 My name is Jordany, I´m from Guadalajara and I´m a Software Engineer transitioning into data analysis.
 
-- 🌱 I’m currently learning Data analysis and Data science.
+- 🔭 I’m currently learning Data analysis and Data science.
 
 ## Skills
 
